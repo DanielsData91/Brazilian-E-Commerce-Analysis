@@ -2,8 +2,6 @@
 
 ![Brazil](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/E-Commerce.jpg)
 
-![Expenditure](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/E-Commerce.jpg)
-
 ## Overview
 This project aims to uncover hidden sales patterns through exploratory data analysis using Python. The analysis focuses on customer demographics, purchasing behavior, and operational efficiency. Various analytical techniques, including regression and clustering analysis, were applied to gain insights into revenue, customer segmentation, shipping performance, product performance, and time-based sales trends.
 
