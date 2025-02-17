@@ -208,7 +208,12 @@ Based on the findings, the following actions are recommended:
 ---
 
 ## Contact
-For further information or questions about this project, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-m%C3%BCller-profile) or check out my other projects on [GitHub](https://github.com/DanielsData91).
+For further information or questions about this project, feel free to connect with me on 
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
+
+
+or check out my other projects on <a href="https://danielsdata91.github.io/">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> 
 
 
 
