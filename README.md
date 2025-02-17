@@ -4,11 +4,27 @@
 
 This project focuses on uncovering hidden sales patterns using Python through exploratory data analysis of demographic information. The sales behavior of different customer profiles was descriptively analyzed and compared using a heatmap.
 
-## 1. Project Description
-As a data analyst in this Project, I conducted an exploratory analysis of customer purchasing behaviors to uncover sales patterns. The objective was to help the marketing and sales teams develop targeted strategies based on customer segmentation. Key questions included identifying the busiest shopping times, analyzing spending habits by time of day, understanding product popularity, and exploring customer loyalty and demographic trends. The insights provided informed targeted marketing campaigns and sales strategies to optimize Instacart's offerings and improve customer engagement.
+This project focuses on uncovering hidden sales patterns using Python through exploratory data analysis in 
+-1. __Revenue Analysis__
+-2. __Customer Segmentation Analysis__
+-3. __Efficiency Analysis__
+-4. __Product Performance Analysis__
+_5. __Time-based Trend Analysis__ .
 
-## 2.Master Folder - Instacart Basket Analysis
-The master folder contains 5 subfolders which store information about the project brief, the data, scripts in Jupyter Notebook, visualizations, and final reports for the client.
+The hypothesis testing was conducted by **Regression Analysis** and **Clustering Analysis**
+
+__Hypothesis__ 
+
+- Hypothesis 1: If shipping time is higher, then the shipping duration is higher?
+- Hypothesis 2: If the price is higher, then the freight value is higher?
+- Hypothesis 3: If the estimated duration is higher, then the freight value is higher?
+
+
+## 1. Project Description
+As a data analyst in this Project, I conducted an exploratory analysis of revenue, customer segmentation, shipping, and products. The objective was to analyze the current situation of the Brazilian E-Commerce Company to help develop a strategy for starting a franchise program. Key questions included identifying the best-performing products in terms of review score and shipping performance, analyzing the difference between actual shipping and estimated shipping time, and looking for strong correlations regarding the review scores. Moreover, exploring the sales performance across different states and identifying customers with a high lifetime value. The insides provided informed stakeholders developing the new franchise program for the company.
+
+## 2.Project Management Folder
+This folders contains the project brief, which explains the project guidelines and the data EDA
 ### 2.1. Folder - Project Management
 This folder stores the project brief:
 
