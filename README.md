@@ -82,25 +82,57 @@ Available on Google Drive: [Prepared Dataset](https://drive.google.com/drive/fol
 
 - **Regional Revenue Distribution:** The top states by revenue are São Paulo (R$3,534,861.50), Rio de Janeiro (R$1,127,145.03), and Minas Gerais (R$1,039,629.78).
 
-![Expenditure](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/E-Commerce.jpg)
+![Total_Rev_States](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/Total%20Revenue%20States.png)
 
 ### 3.2 Customer Segmentation Analysis
 - **High Lifetime Value Customers:** Concentrated in Praia Grande, Niterói, and Belo Horizonte.
+
+![High_LT_Cust](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/Hihg%20Lifetime%20Customers.png)
+  
 - **Customer Satisfaction:** 76.57% of reviews are positive (scores 4 or 5).
+
+![Sat_Level](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/satisfaction_level.png)
+
 - **Loyalty and Review Scores:** Higher review scores correlate with increased order frequency, indicating loyal customers tend to leave positive reviews.
+
+![Loyalty](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/loyalty_review.png)
 
 ### 3.3 Efficiency Analysis
 - **Delivery Time Accuracy:** 93.57% of orders are delivered on or before the estimated delivery date, with many arriving 10-20 days early.
+
+![Diff_Shipping](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/diff_delivery.png)
+
 - **Freight Value vs. Delivery Time:** No clear relationship between freight value and delivery time.
+
+![FreightVSShipping_Time](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/freight_vs_shiptime.png)
+
 
 ### 3.4 Product Performance Analysis
 - **Top Products by Revenue:** Notable products are from categories like Bed Bath Table, Computers Accessories, and Watches Gifts.
+
+![Top10_Prods](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/top10_prod.png)
+  
 - **Top Products by Quantity:** Bed Bath Table, Health Beauty, and Sports Leisure lead in sales volume.
+
+![Top10_QTY](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/top10_prod_qty.png)
+  
 - **Fastest Shipping Categories:** Security and Services, La Cuisine, and Furniture Bedroom products have the shortest average shipping times.
+  
+![Fastest](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/Fastest_Delivery.png)
+
+
 - **Product Ratings:** High-rated categories average above 4 stars, while lower-rated categories still average near 4 stars, indicating generally positive reviews across products.
+
+![Top_score](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/high_score_cat.png)
+
+![Bottom_Score](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/low_score_cat.png)
 
 ### 3.5 Time-based Trends
 - **Seasonal Sales Trends:** No strong seasonal pattern detected. However, sales dip in June and July, with a recovery in August.
+
+![Sales_Rev](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/season_sales_rev.png)
+
+![Sales_Vol](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/season_sales_vol.png)
 
 ---
 
