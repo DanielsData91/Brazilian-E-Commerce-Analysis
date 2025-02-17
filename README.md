@@ -52,9 +52,6 @@ The original data sets can be found on Kaggle.
 ● The prepared data sets can be found on my Google Drive
 ![Prepared Data Set]([file:///Users/daniel/Desktop/Ordner/Data%20Analyst/Data%20Analytics%20Course/Data%20Immersion/Achievement%206/Master%20Folder%20-%20Project%20Achievement%206%20update/Analysis/Maps/Total%20Revenue%20on%20State%20Level.html](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_items_dataset.csv)](https://drive.google.com/drive/folders/16D2UfPa7iGCbDfkg-XrlKE_S2BxnVGXS?usp=drive_link))
 
-
-
-
 ## 3. __Business Questions__
 
 __Revenue Analysis__
@@ -88,4 +85,9 @@ __Time-based Trends__
 - Hypothesis 3: If the estimated duration is higher, then the freight value is higher?
 
 
+## 5.__Insights to the Key Questions
+#### 5.1__Revenue Analysis__
+- 1: What is the average revenue per order, and how does is vary acroos different product categories?
 
+  
+- 2: Does revenue differ accross regions in Brazil?
