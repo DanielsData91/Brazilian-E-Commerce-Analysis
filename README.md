@@ -152,6 +152,7 @@ The first observation is that the regression line covers a relatively small numb
 - The linear regression model does not capture the complexity of the data well, and the presence of negative predictions is a red flag.
 - Further investigation into other features (e.g., distance, product type, region) or experimenting with different models (e.g., decision trees, random forests) could improve predictive power.
 
+---
 
 - **Hypothesis 2:** If the price is higher, then the freight value is higher?
   
@@ -166,6 +167,8 @@ The regression line covers only the middle range of the scatter plot, spanning f
 **Thought:**
 - Low predictive power: The R² score is low, indicating that "Price" alone is not a strong predictor of "Freight Value." Other important variables may be missing from the model.
 - Potential improvements: Including additional variables, such as product category, shipping distance, or order size, could improve the model’s accuracy. Alternatively, exploring more complex models might help capture any non-linear relationships.
+
+---
 
 - **Hypothesis 3:** If the estimated duration is higher, then the freight value is higher??
 
