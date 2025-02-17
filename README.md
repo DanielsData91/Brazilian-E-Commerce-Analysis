@@ -23,8 +23,16 @@ __Hypothesis__
 ## 1. Project Description
 As a data analyst in this Project, I conducted an exploratory analysis of revenue, customer segmentation, shipping, and products. The objective was to analyze the current situation of the Brazilian E-Commerce Company to help develop a strategy for starting a franchise program. Key questions included identifying the best-performing products in terms of review score and shipping performance, analyzing the difference between actual shipping and estimated shipping time, and looking for strong correlations regarding the review scores. Moreover, exploring the sales performance across different states and identifying customers with a high lifetime value. The insides provided informed stakeholders developing the new franchise program for the company.
 
-## 2.Project Management Folder
-This folders contains the project brief, which explains the project guidelines and the data EDA
+## 2.Documents
+## 2.1 Project Management Folder
+This folders contains the project brief, which explains the project guidelines and the data ERD.
+
+## 2.2 Visualizations
+This foldder contrains all necessary information about the visualizations to support the findings of the analysis.
+
+## 2.3 Brazilian E-Commerce
+This is the notebook compressed to a zip-file due to its size above 25MB.
+
 ### 2.1. Folder - Project Management
 This folder stores the project brief:
 
