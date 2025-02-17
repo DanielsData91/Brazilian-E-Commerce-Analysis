@@ -1,6 +1,6 @@
 # CareerFoundry-Project-Brazilian E-Commerce Analysis
 
-![Instacart](https://brittainladd.com/wp-content/uploads/2023/09/Instacart-Logo-scaled.jpg)
+![Brazilian E-Commerce](Visualizations/E-Commerce.jpg)
 
 This project focuses on uncovering hidden sales patterns using Python through exploratory data analysis of demographic information. The sales behavior of different customer profiles was descriptively analyzed and compared using a heatmap.
 
