@@ -133,8 +133,57 @@ Available on Google Drive: [Prepared Dataset](https://drive.google.com/drive/fol
 ![Sales_Vol](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/season_sales_vol.png)
 
 ---
+## 4. Hypothesis
 
-## 4. Recommendations
+- **Hypothesis 1:** If shipping time is higher, then the shipping duration is higher?
+
+![TimeVSDuration](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/timevsduration.png)
+
+**Interpretation of the Regression Model Fit:**
+
+The first observation is that the regression line covers a relatively small number of data points, as most of the points are concentrated around higher y-axis values. Additionally, there is a large cluster of points around a shipping time of -50 to +50 days and a shipping duration of 0-50 days. Despite this concentration, the regression line shows a strong positive correlation, which will be further explored later.
+
+![TimeVSDuration](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/Hypothesis%201.png)
+
+**Thought:**
+
+- There is a positive relationship between shipping time and shipping duration, though the relationship is weak (R² = 0.38).
+- The Mean Squared Error (MSE) is quite high, indicating that predictions deviate significantly from actual values.
+- The linear regression model does not capture the complexity of the data well, and the presence of negative predictions is a red flag.
+- Further investigation into other features (e.g., distance, product type, region) or experimenting with different models (e.g., decision trees, random forests) could improve predictive power.
+
+
+- **Hypothesis 2:** If the price is higher, then the freight value is higher?
+  
+![PrceVSFreight](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/pricevsfreight.png)
+
+**Interpretation of the Regression Model Fit:**
+
+The regression line covers only the middle range of the scatter plot, spanning freight values from 13 to prices around 250. The line suggests a positive correlation between price and freight value.
+
+![Hypothesis 2](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/Hypothesis%202.png)
+
+**Thought:**
+- Low predictive power: The R² score is low, indicating that "Price" alone is not a strong predictor of "Freight Value." Other important variables may be missing from the model.
+- Potential improvements: Including additional variables, such as product category, shipping distance, or order size, could improve the model’s accuracy. Alternatively, exploring more complex models might help capture any non-linear relationships.
+
+- **Hypothesis 3:** If the estimated duration is higher, then the freight value is higher??
+
+![EstiDurationVSFreight](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/estivsduration.png)
+
+**Interpretation of the Regression Model Fit:**
+
+The regression line fits many of the data points in the cluster, but a more detailed statistical summary will provide a clearer interpretation.
+
+![Hypothesis 3](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/Hypothesis%203.png)
+
+**Thought:**
+- Modest predictive power: The R² score of 0.208 suggests a weak relationship between the Estimated Duration Days and Freight Value.
+- The model might benefit from incorporating additional variables to enhance its accuracy
+
+---
+
+## 5. Recommendations
 Based on the findings, the following actions are recommended:
 
 - **Focus on High-Value States:** Prioritize expanding in São Paulo, Rio de Janeiro, and Minas Gerais due to high revenue potential.
@@ -146,7 +195,7 @@ Based on the findings, the following actions are recommended:
 
 ---
 
-## 5. Next Steps
+## 6. Next Steps
 - **Detailed Market Analysis:** Conduct a deeper regional analysis focusing on customer preferences and local competition.
 - **Customer Retention Strategies:** Implement targeted marketing campaigns and loyalty programs for high-value customers.
 - **Operational Efficiency:** Investigate logistics partners and processes to maintain or improve early delivery performance.
