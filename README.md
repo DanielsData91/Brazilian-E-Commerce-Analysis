@@ -36,7 +36,7 @@ Contains visualizations supporting the findings from the analysis.
 ### 2.3 Brazilian E-Commerce Notebook
 This Jupyter Notebook contains the code, outputs, and insights. Interactive maps illustrating:
 - High Lifetime Value Customers by State: [Map1](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/High_CLV_on_State_Level.html.zip)
-- Revenue Distribution Across States: [Map2](file:///Users/daniel/Desktop/Ordner/Data%20Analyst/Data%20Analytics%20Course/Data%20Immersion/Achievement%206/Master%20Folder%20-%20Project%20Achievement%206%20update/Analysis/Maps/Total%20Revenue%20on%20State%20Level.html)
+- Revenue Distribution Across States: [Map2](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Visualizations/Total%20Revenue%20on%20State%20Level.html.zip)
 
 **Note:** Due to file size limitations, these maps exceed 25MB and are uploaded in ZIP-File format to GitHub.
 
